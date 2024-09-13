@@ -7,5 +7,5 @@ Hello
 merge
 =========
 
-Hello
+Hello chung
 >>>>>>>>> Temporary merge branch 2
