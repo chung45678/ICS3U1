@@ -1,12 +1,3 @@
-print ("test")
-<<<<<<<<< Temporary merge branch 1
-print ("hello")
+READ ME
 
-Hello
-
-merge
-=========
-
-Hello chung
->>>>>>>>> Temporary merge branch 2
-oijoijoij
+Hello! 
