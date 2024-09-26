@@ -1,3 +1,1 @@
-READ ME
-
-Hello! 
+Hello! This is my repository for ICS3U1.
